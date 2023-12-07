@@ -1,1 +1,1 @@
-
+# Spring-boot FreeMarker examples
