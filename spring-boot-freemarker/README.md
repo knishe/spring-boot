@@ -1,6 +1,3 @@
-
-Certainly! Here's the README in markdown format:
-
 ```markdown
 # Spring Boot and FreeMarker Integration Tutorial (Gradle)
 
