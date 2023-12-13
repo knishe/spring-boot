@@ -25,10 +25,6 @@ public class BookController {
     }
 }
 
-class Student {
-    private String name;
-}
-
 
 @Service
 @RequiredArgsConstructor
