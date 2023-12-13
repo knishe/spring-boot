@@ -57,6 +57,7 @@ class ExternalService {
 }
 
 @Data
+@Builder
 class Book {
     private String name;
 }
