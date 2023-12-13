@@ -1,4 +1,3 @@
-```markdown
 # Spring Boot and FreeMarker Integration Tutorial (Gradle)
 
 This tutorial guides you through the process of integrating FreeMarker templates with a Spring Boot application using Gradle. FreeMarker is a powerful template engine that allows you to separate the presentation layer from the business logic in your Spring Boot projects.
@@ -55,6 +54,3 @@ Follow the steps outlined in the tutorial to understand and implement the integr
 Feel free to submit issues or pull requests if you encounter any problems or have improvements to suggest. Your feedback is highly appreciated.
 
 Happy coding!
-```
-
-You can copy and paste this markdown content into your project's README.md file. Adjust the URLs, commands, and sections based on your actual project structure and content.
