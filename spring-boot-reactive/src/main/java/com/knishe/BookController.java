@@ -17,7 +17,7 @@ public class BookController {
     private final ExternalService externalService;
 
     @GetMapping("/books")
-    public ResponseEntity getStudent() {
+    public ResponseEntity findBooks() {
 
         Book book = externalService.findBookById().block();
 
